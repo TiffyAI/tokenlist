@@ -23,7 +23,8 @@
       "sourcify": "https://repo.sourcify.dev/56/0xE488253DD6B4D31431142F1b7601C96f24Fb7dd5",
       "audit": {
         "status": "community-audited",
-        "link": "https://github.com/tiffyai/audits/blob/main/audit-summary.pdf"
+        "link": "https://tiffyai.github.io/audits/audit-summary.pdf",
+        "verifiedBy": "OpenAI GPT-4 Community Review"
       },
       "security": {
         "proxyContract": false,
